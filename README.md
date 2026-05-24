@@ -60,8 +60,9 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: VIJAYASHANKAR N
+### Register Number: 212225230301
+<img width="1007" height="740" alt="image" src="https://github.com/user-attachments/assets/ff7e27a6-2665-4c88-b7d3-f99a91424f38" />
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
